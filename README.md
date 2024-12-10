@@ -4,8 +4,12 @@ SQL Triggers are automated mechanisms in a database that respond to specific eve
 
 Types:
 BEFORE Triggers: Execute before the triggering operation, allowing pre-checks or value modifications.
+
 AFTER Triggers: Execute after the triggering operation, ensuring dependent processes are handled.
+
 INSTEAD OF Triggers: Override the default behavior of operations, commonly used for views.
+
+
 Use Cases:
 Automating updates or calculations.
 Ensuring that business logic is consistently applied.
