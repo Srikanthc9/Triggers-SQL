@@ -17,6 +17,8 @@ This example demonstrates how triggers ensure employees' statuses are updated ba
 
 Scenario: When an employee is marked as "Retired," their status should automatically switch to "Inactive."
 Purpose: Saves time and eliminates manual updates while maintaining data integrity.
+
+
 2. Calculate Total Sales Price
 Illustrates the use of triggers for automating calculations when new records are added.
 
