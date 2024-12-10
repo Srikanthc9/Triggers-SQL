@@ -1,4 +1,5 @@
 What are SQL Triggers?
+
 SQL Triggers are automated mechanisms in a database that respond to specific events such as INSERT, UPDATE, or DELETE. They allow you to define actions that are executed automatically when these events occur on a table or view. Triggers help streamline operations, enforce rules, and maintain data consistency without requiring manual intervention.
 
 Types:
@@ -24,6 +25,8 @@ Illustrates the use of triggers for automating calculations when new records are
 
 Scenario: Automatically compute the total price of a sale based on quantity and unit price during data insertion.
 Purpose: Ensures accuracy and consistency by embedding calculations directly into the database logic.
+
+
 Why Use SQL Triggers?
 Automation: Eliminates manual operations, reducing human error.
 Consistency: Ensures data always adheres to predefined rules.
